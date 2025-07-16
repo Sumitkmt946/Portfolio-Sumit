@@ -4,8 +4,8 @@
 
 <p align="center">Deploy your portfolio in 5 minutes with ease, built with <strong>Astro</strong> & <strong>TailwindCSS</strong>.</p>
 
-<div align="center"><img src="<img width="1314" height="646" alt="image" src="https://github.com/user-attachments/assets/625c9c16-68b0-43c3-87d2-703a8230e372" />
-" align="center"></div>
+<img width="1314" height="646" alt="image" src="https://github.com/user-attachments/assets/3bfaa057-bc86-456d-8b44-d78e389658f2" />
+
 
 ## Table of Contents
 
