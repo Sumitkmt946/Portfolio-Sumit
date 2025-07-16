@@ -4,7 +4,8 @@
 
 <p align="center">Deploy your portfolio in 5 minutes with ease, built with <strong>Astro</strong> & <strong>TailwindCSS</strong>.</p>
 
-<div align="center"><img src="/src/assets/screenshot.png" align="center"></div>
+<div align="center"><img src="<img width="1314" height="646" alt="image" src="https://github.com/user-attachments/assets/625c9c16-68b0-43c3-87d2-703a8230e372" />
+" align="center"></div>
 
 ## Table of Contents
 
@@ -42,10 +43,3 @@
    pnpm dev
    ```
    **PS:** Make sure your replace `yourRepoName` with your repository name.
-
-## Modify Template
-
-After you started the development server, you can navigate to [http://localhost:3000/portfolio-template](http://localhost:3000/portfolio-template) and start editing the `src/data.json` file with your personal details.
-
-**PS:** You will learn how to remove **_/portfolio-template_** from the URL in the deplyment section.
-
