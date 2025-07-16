@@ -1,0 +1,63 @@
+{
+  "metaData": {
+    "title": "Full Stack Developer",
+    "description": "I am fullstack dev that build fast website. based in ...",
+    "keywords": ["fullstack", "javascript", "london dev"]
+  },
+  "fullName": "Sumit Kumawat",
+  "rotatingWords": ["Full Stack Developer", "Web Development", "Gen AI"],
+  "aboutMe": [
+    "I'm Sumit Kumawat, a passionate and growth-focused B.Tech Computer Science student at VIT Bhopal (Batch 2026). With hands-on experience in full-stack web development and AI applications, I enjoy building projects that solve real-world problems.",
+    "I’ve completed internships as a Web Developer at Zidio and an AI Developer at Teachnook, where I worked with technologies like React.js, MongoDB, Tailwind CSS, JavaScript, SQL, and Python. I’ve also developed multiple projects, including an E-commerce platform, a Free Game App, and a User Notifier App, focusing on clean UI, functionality, and performance.",
+    " I’m currently upskilling through LeetCode's 360 Day Challenge, exploring machine learning, and contributing to open-source. I'm always eager to collaborate on exciting tech projects and internships that push my boundaries."
+  ],
+  "skills": [
+    "javascript",
+    "react",
+    "nextjs",
+    "tailwindcss",
+    "mongodb",
+    "rust",
+    "java",
+    "docker",
+    "postgresql",
+    "flutter",
+    "jenkins",
+    "python"
+  ],
+  "projects": [
+    {
+      "imageSrc": "https://private-user-images.githubusercontent.com/147964251/420458086-ac4a820a-1161-4db8-b89a-93ad718e9827.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTI2NzE4MzYsIm5iZiI6MTc1MjY3MTUzNiwicGF0aCI6Ii8xNDc5NjQyNTEvNDIwNDU4MDg2LWFjNGE4MjBhLTExNjEtNGRiOC1iODlhLTkzYWQ3MThlOTgyNy5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNzE2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDcxNlQxMzEyMTZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1kYTBhNDczODU4MDlhNjBiZjZkZGIwY2NjMmFhZmQwNzRlMDlmYTM0OTBlN2MzNjc2ODlmZjQwNjE5Y2ZkYWJiJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.tyPMcegXZDT0zsLobFKRTuxegYhULlCZxMWl3YGDPYI",
+      "title": "Free Game App",
+      "codeSrc": "https://github.com/Sumitkmt946/Free-Game-App",
+      "liveDemoURL": "https://github.com/Sumitkmt946/Free-Game-App"
+    },
+    {
+      "imageSrc": "https://private-user-images.githubusercontent.com/147964251/455203705-3cb0378d-f3c7-4ab7-b9d4-9f0a1c41c348.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTI2NzIwMzMsIm5iZiI6MTc1MjY3MTczMywicGF0aCI6Ii8xNDc5NjQyNTEvNDU1MjAzNzA1LTNjYjAzNzhkLWYzYzctNGFiNy1iOWQ0LTlmMGExYzQxYzM0OC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNzE2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDcxNlQxMzE1MzNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0wZGQ5ZTY5YzU4ZDI1NWViMWVkZDVhY2Q0ODIxNjE2ZWQ5ZThkYzVhODRhOWNiMTc2MWVkNmVmYzkwM2FhY2FkJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.fg3oqm8vv891lcIJ6SEJkn_DWMaT42UNzkWDMc3Xu5s",
+      "title": "Task Manager App",
+      "codeSrc": "https://github.com/Sumitkmt946/Task_Managment_web_Application",
+      "liveDemoURL": "https://github.com/Sumitkmt946/Task_Managment_web_Application"
+    },
+    {
+      "imageSrc": "https://private-user-images.githubusercontent.com/147964251/352771103-8915bb8d-ef51-44dd-9eb7-0c50e37a6987.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTI2NzIxMzgsIm5iZiI6MTc1MjY3MTgzOCwicGF0aCI6Ii8xNDc5NjQyNTEvMzUyNzcxMTAzLTg5MTViYjhkLWVmNTEtNDRkZC05ZWI3LTBjNTBlMzdhNjk4Ny5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNzE2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDcxNlQxMzE3MThaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1hNmE4ZDFmMWQyYTRkZTMzOThiNDYwZjVlOWM3MzFhY2JhMDAwMzA2OGVmYzdlMDUxYzY4MjhhNjNlMjlkNWZjJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.wLNxBpbS8wPKpFT8zJOjNWgyiTpn_DhAsO6HakzU3Co",
+      "title": "Landing Page",
+      "codeSrc": "https://github.com/Sumitkmt946/LodingPageEncryptix?tab=readme-ov-file",
+      "liveDemoURL": "https://loading-page-sumit.netlify.app/"
+    },
+    {
+      "imageSrc": "https://private-user-images.githubusercontent.com/147964251/392846177-b2e91ede-a9dc-4a25-b22f-9602dadbc46b.PNG?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTI2NzIzNjUsIm5iZiI6MTc1MjY3MjA2NSwicGF0aCI6Ii8xNDc5NjQyNTEvMzkyODQ2MTc3LWIyZTkxZWRlLWE5ZGMtNGEyNS1iMjJmLTk2MDJkYWRiYzQ2Yi5QTkc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNzE2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDcxNlQxMzIxMDVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0xYTA2MjllZmJiYjMzNzE5NzlhOGY1MDNlYmQxNWY0YjYxYTBiYmRkM2ZhNmU5MTFlZDIyMGNiNDAxNDNjY2NjJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.1Gcpj8hKutVewqEZr8zvRYISubq2UB88S_NX070aBy8",
+      "title": "Face Recognition Attendance System",
+      "codeSrc": "https://github.com/Sumitkmt946/Face_recognition_attendance_system",
+      "liveDemoURL": "https://github.com/Sumitkmt946/Face_recognition_attendance_system"
+    }
+  ],
+  "contact": {
+    "email": "summitkumawat888@gmail.com",
+    "location": "Rajasthan, India",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/sumit-kumawat-ba1859250/",
+      "github": "https://github.com/Sumitkmt946"
+      
+    }
+  }
+}
