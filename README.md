@@ -1,4 +1,4 @@
-<h1 align="center">Portfolio Template</h1>
+<h1 align="center">Portfolio Sumit</h1>
 
 <div align="center"><img src="/src/assets/100lighthouse.png" align="center"></div>
 
@@ -32,21 +32,21 @@
 
 ## Installation
 
-1. Use the `Use this template` button on GitHub and create new repository.
+1. Use the button on GitHub and create new repository.
 2. Clone the repo:
    ```sh
-   git clone https://github.com/yourUsername/yourRepoName.git
+   git clone https://github.com/Sumitkmt946/Portfolio-Sumit.git
    ```
 3. Navigate to the project directory:
    ```sh
-   cd yourRepoName
+   cd Portfolio-Sumit
    ```
 4. Install dependencies:
    ```sh
-   pnpm install
+   npm install
    ```
 5. Start the development server:
    ```sh
-   pnpm dev
+   npm run dev
    ```
-   **PS:** Make sure your replace `yourRepoName` with your repository name.
+   
